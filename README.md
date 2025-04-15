@@ -1,2 +1,6 @@
 # Colored-Marker-Set
-"place holder text"
+**Tools used:**
+* codepen.io
+* github repo
+* netlify
+
